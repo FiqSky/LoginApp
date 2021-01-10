@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632705359885",
+    "project_id": "loginapp-97b16",
+    "storage_bucket": "loginapp-97b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632705359885:android:21fcbd2fdc2a158c87b544",
+        "android_client_info": {
+          "package_name": "com.fiqsky.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632705359885-k8t84ji60vdt1plua65bu57kpoe62q2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_Ri3q6z37V4VemJGw0FwGk6gOLDBzjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632705359885-k8t84ji60vdt1plua65bu57kpoe62q2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
